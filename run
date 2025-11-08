@@ -1,0 +1,1 @@
+g++ -std=c++17 -arch arm64 -o out $1 && ./out
